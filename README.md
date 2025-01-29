@@ -9,7 +9,7 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabzineo6&layout=compact)](https://github.com/Gabzineo/github-readme-stats)
 
 ### Contatos
 
