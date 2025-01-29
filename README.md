@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabzineo&repo=Gabzineo.Clone_Diney+)](https://github.com/Gabzineo/Clone_disneyplus)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/Gabzineo/Clone_disneyplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Gabzineo.Disney+=dark)](https://github.com/Gabzineo/Clone_disneyplus)
 
 ### Linguagens utilizadas
 
