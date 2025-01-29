@@ -4,9 +4,10 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Clone.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabzineo&repo=Clone_disneyplus.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Gabzineo.Disney+=dark)](https://github.com/Gabzineo/Clone_disneyplus)
+
+
 
 ### Linguagens utilizadas
 
